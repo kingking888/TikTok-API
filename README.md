@@ -1,6 +1,12 @@
 # TikTok-API
 An API that allows you to get full information about TikTok videos without using any third party sources and only the TikTok API.
 
-This code was created by me.
+This API was created by me.
 
-This code was last tested and worked on Dec 1, 2021.
+This API was last tested and worked on Dec 1, 2021.
+
+# More
+This API uses the script from here: https://github.com/frogc0de/TikTok-Algorithm
+
+# Usage
+Coming soon.
