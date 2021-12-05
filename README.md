@@ -21,7 +21,9 @@ To obtain the dictionary of needed parameters use: getDeviceParams("The url")
 
 To set the API parameters use: setDeviceParams(theDictionary)
 
-Sample query generated: os_api=25&device_type=SM-G988N&app_name=musical_ly&version_name=22.0.5&channel=googleplay&device_platform=android&iid=7031934232164271877&version_code=220005&device_id=7031934173436052997&os_version=7.1.2&aid=1233
+After this is done use getVideoByUrl("Tiktok video url") or getVideoById("Tiktok video id") to get the information about the video
+
+The information contains the following: Unwatermarked video url, watermarked video url, music info, avatars, covers, author info, video statistics and etc.
 
 
 
