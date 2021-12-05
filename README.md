@@ -13,9 +13,12 @@ This API uses the script from here: https://github.com/frogc0de/TikTok-Algorithm
 This API requires the requests lib https://docs.python-requests.org/en/latest/
 
 # Usage
-First step would be to obtain a url the tiktok application sends to get/post to it's api
-The url should contain things like device parameters and account id's
+First step would be to obtain a url the tiktok application sends to get/post to it's api.
 
-To get the needed parameters from the url use the following command: 
+The url should contain things like device parameters and account id's.
+
+To obtain the dictionary of needed parameters use: getDeviceParams("The url")
+
+Once the dictionary is obtained use: 
 
 
