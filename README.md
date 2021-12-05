@@ -19,6 +19,6 @@ The url should contain things like device parameters and account id's.
 
 To obtain the dictionary of needed parameters use: getDeviceParams("The url")
 
-Once the dictionary is obtained use: 
+To set the API parameters use: setDeviceParams(theDictionary)
 
 
