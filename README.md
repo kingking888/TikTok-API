@@ -26,5 +26,8 @@ After this is done use getVideoByUrl("Tiktok video url") or getVideoById("Tiktok
 The information contains the following: Unwatermarked video url, watermarked video url, music info, avatars, covers, author info, video statistics and etc.
 
 
+If you are unable to extract the needed parameters from your account use the parameters located in the sampleParams file, they currently work, but may stop working at any time which is why it is recommended to use your own account for this. Usage: .deviceParamsQuery="Sample params"
+
+
 
 
